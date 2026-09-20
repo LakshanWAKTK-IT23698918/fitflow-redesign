@@ -1,3 +1,4 @@
+
 \# FitFlow Redesign
 
 
@@ -65,4 +66,7 @@ cd ai-service \&\& pip install -r requirements.txt \&\& uvicorn app.main:app --r
 
 
 Academic coursework — not licensed for production use.
+
+# fitflow-redesign
+FitFlow mobile app redesign — HCI coursework (IT3060)
 
